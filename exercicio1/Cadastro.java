@@ -1,4 +1,4 @@
-package testing1;
+package exercicio1;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package testing1;
+package exercicio1;
 
 public abstract class Pessoa implements Comparable<Pessoa> {
 	

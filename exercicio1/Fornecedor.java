@@ -1,4 +1,5 @@
-package testing1;
+package exercicio1;
+
 public class Fornecedor extends Pessoa{
 	
 	private String cnpj;
